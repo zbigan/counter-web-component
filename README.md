@@ -1,4 +1,4 @@
-# This is a counter HTML element created using web component method
-## Created only for technology learning purposes
-### To run locally, type:
-``npx --yes http-server .``
+# A simple counter web component
+
+- ``pnpm start`` to run local dev server
+- ``pnpm run build`` to create a bundle
